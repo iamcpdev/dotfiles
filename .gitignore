@@ -1,0 +1,13 @@
+[user]
+  name = Chaleb Pommells
+  email = chaleb@iamcpdev.me
+
+[github]
+  user = iamcpdev
+
+[core]
+  excludesfile = ~/.gitignore_global
+  editor = nano
+  filemode = false
+  trustctime = false
+    autocrlf = input
